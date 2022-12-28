@@ -31,6 +31,4 @@ body {
 
 .square:hover {
  transition-duration: 0s;
- color: rgb(241, 248, 33);
- color:rgb(242, 10, 168)
 }
